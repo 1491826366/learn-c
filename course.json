@@ -34,5 +34,15 @@
         }
       ]
     }
+	{
+      "title": "数组",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "数组",
+          "text": "scenarios/Arrays.md"
+        }
+      ]
+    }
   ]
 }
