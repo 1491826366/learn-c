@@ -24,5 +24,15 @@
         }
       ]
     }
+	{
+      "title": "变量和类型",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "变量和类型",
+          "text": "scenarios/变量和类型.md"
+        }
+      ]
+    }
   ]
 }
