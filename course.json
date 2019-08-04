@@ -1,1 +1,268 @@
-
+{
+  "version": "1",
+  "title": "python教程",
+  "author": "GitCourse",
+  "description": "python基础教程",
+  "scenarios": [
+    {
+      "title": "python简介",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "python简介",
+          "text": "scenarios/python.md"
+        }
+      ]
+    },
+	{
+      "title": "hello world!",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "hello world!",
+          "text": "scenarios/helloworld.md"
+        }
+      ]
+    },
+	{
+      "title": "基本变量类型",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "基本变量类型",
+          "text": "scenarios/types.md"
+        }
+      ]
+    },
+	{
+      "title": "列表构建",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "列表构建",
+          "text": "scenarios/lists.md"
+        }
+      ]
+    },
+	{
+      "title": "基本运算符的使用",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "基本运算符的使用",
+          "text": "scenarios/BasicOperations.md"
+        }
+      ]
+    },
+	{
+      "title": "字符串格式",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "字符串格式",
+          "text": "scenarios/string.md"
+        }
+      ]
+    },
+	{
+      "title": "基本字符串操作",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "基本字符串操作",
+          "text": "scenarios/stringoperations.md"
+        }
+      ]
+    },
+	{
+      "title": "Conditions",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "Conditions",
+          "text": "scenarios/conditions.md"
+        }
+      ]
+    },
+	{
+      "title": "循环类型介绍",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "循环类型介绍",
+          "text": "scenarios/loops.md"
+        }
+      ]
+    },
+	{
+      "title": "函数编写",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "函数编写",
+          "text": "scenarios/Functions.md"
+        }
+      ]
+    },
+	{
+      "title": "类和对象",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "类和对象",
+          "text": "scenarios/ClassesandObjects.md"
+        }
+      ]
+    },
+	{
+      "title": "字典",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "字典",
+          "text": "scenarios/Dictionaries.md"
+        }
+      ]
+    },
+	{
+      "title": "模块和包",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "模块和包",
+          "text": "scenarios/modules.md"
+        }
+      ]
+    },
+	{
+      "title": "Numpy数组",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "Numpy数组",
+          "text": "scenarios/NumpyArrays.md"
+        }
+      ]
+    },
+	{
+      "title": "pandas基础知识",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "pandas基础知识",
+          "text": "scenarios/pandas.md"
+        }
+      ]
+    },
+	{
+      "title": "Generators",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "Generators",
+          "text": "scenarios/Generators.md"
+        }
+      ]
+    },
+	{
+      "title": "列表生成器",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "列表生成器",
+          "text": "scenarios/listcomprehensions.md"
+        }
+      ]
+    },
+	{
+      "title": "Multiple Function Arguments",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "Multiple Function Arguments",
+          "text": "scenarios/MultipleFunctionArguments.md"
+        }
+      ]
+    },
+	{
+      "title": "正则表达式",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "正则表达式",
+          "text": "scenarios/regularexpression.md"
+        }
+      ]
+    },
+	{
+      "title": "错误处理",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "错误处理",
+          "text": "scenarios/exceptionhandling.md"
+        }
+      ]
+    },
+	{
+      "title": "sets",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "sets",
+          "text": "scenarios/sets.md"
+        }
+      ]
+    },
+	{
+      "title": "序列化",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "序列化",
+          "text": "scenarios/serialization.md"
+        }
+      ]
+    },
+	{
+      "title": "偏函数",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "偏函数",
+          "text": "scenarios/partialfunctions.md"
+        }
+      ]
+    },
+	{
+      "title": "代码内省",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "代码内省",
+          "text": "scenarios/introspection.md"
+        }
+      ]
+    },
+	{
+      "title": "闭包",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "闭包",
+          "text": "scenarios/closure.md"
+        }
+      ]
+    },
+	{
+      "title": "装饰器",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "steps": [
+        {
+          "title": "装饰器",
+          "text": "scenarios/decorators.md"
+        }
+      ]
+    }
+  ]
+}
