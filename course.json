@@ -9,8 +9,18 @@
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
       "steps": [
         {
-          "title": "»欢迎learn-c",
+          "title": "欢迎learn-c",
           "text": "scenarios/learn-c.md"
+        }
+      ]
+    },
+	{
+      "title": "Hello World!",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "Hello World!",
+          "text": "scenarios/Hello World!.md"
         }
       ]
     }
