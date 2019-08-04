@@ -1,20 +1,20 @@
 {
   "version": "1",
-  "title": "python教程",
+  "title": "c教程",
   "author": "GitCourse",
-  "description": "python基础教程",
+  "description": "c基础教程",
   "scenarios": [
     {
-      "title": "python简介",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
+      "title": "欢迎learn-c",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
       "steps": [
         {
-          "title": "python简介",
-          "text": "scenarios/python.md"
+          "title": "欢迎learn-c",
+          "text": "scenarios/learn-c.md"
         }
       ]
-    },
-	{
+    }
+	/*{
       "title": "hello world!",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
       "steps": [
@@ -263,6 +263,6 @@
           "text": "scenarios/decorators.md"
         }
       ]
-    }
+    }*/
   ]
 }
