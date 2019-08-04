@@ -5,7 +5,7 @@
   "description": "c基础教程",
   "scenarios": [
     {
-      "title": "»欢迎learn-c",
+      "title": "欢迎learn-c",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
       "steps": [
         {
