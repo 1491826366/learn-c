@@ -1,15 +1,15 @@
 {
   "version": "1",
-  "title": "c½Ì³Ì",
+  "title": "cæ•™ç¨‹",
   "author": "GitCourse",
-  "description": "c»ù´¡½Ì³Ì",
+  "description": "cåŸºç¡€æ•™ç¨‹",
   "scenarios": [
     {
-      "title": "»¶Ó­learn-c",
+      "title": "Â»æ¬¢è¿Žlearn-c",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
       "steps": [
         {
-          "title": "»¶Ó­learn-c",
+          "title": "Â»æ¬¢è¿Žlearn-c",
           "text": "scenarios/learn-c.md"
         }
       ]
