@@ -80,7 +80,7 @@
       "steps": [
         {
           "title": "for循环",
-          "text": "scenarios/forloop.md"
+          "text": "scenarios/forLoop.md"
         }
       ]
     }
@@ -160,7 +160,7 @@
       "steps": [
         {
           "title": "数组和指针",
-          "text": "scenarios/ArraysAndPointers.md"
+          "text": "scenarios/ArrayAndPointers.md"
         }
       ]
     }
