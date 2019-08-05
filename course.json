@@ -213,7 +213,7 @@
           "text": "scenarios/PointerArithmetics.md"
         }
       ]
-    }，
+    },
 	{
       "title": "函数指针",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
