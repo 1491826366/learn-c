@@ -44,5 +44,185 @@
         }
       ]
     }
+	{
+      "title": "多维数组",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "多维数组",
+          "text": "scenarios/MultidimensionalArrays.md"
+        }
+      ]
+    }
+	{
+      "title": "条件",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "条件",
+          "text": "scenarios/Conditions.md"
+        }
+      ]
+    }
+	{
+      "title": "字符串",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "字符串",
+          "text": "scenarios/Strings.md"
+        }
+      ]
+    }
+	{
+      "title":"for循环",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "for循环",
+          "text": "scenarios/forloop.md"
+        }
+      ]
+    }
+	{
+      "title": "While循环",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "While循环",
+          "text": "scenarios/WhileLoop.md"
+        }
+      ]
+    }
+	{
+      "title": "函数",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "函数",
+          "text": "scenarios/Functions.md"
+        }
+      ]
+    }
+	{
+      "title": "静态",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "静态",
+          "text": "scenarios/Static.md"
+        }
+      ]
+    }
+	{
+      "title": "指针",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "指针",
+          "text": "scenarios/Pointers.md"
+        }
+      ]
+    }
+	{
+      "title": "结构",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "结构",
+          "text": "scenarios/Structures.md"
+        }
+      ]
+    }
+	{
+      "title": "函数参数引用",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "函数参数引用",
+          "text": "scenarios/FunctionArguments.md"
+        }
+      ]
+    }
+	{
+      "title": "动态分配",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "动态分配",
+          "text": "scenarios/DynamicAllocation.md"
+        }
+      ]
+    }
+	{
+      "title": "数组和指针",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "数组和指针",
+          "text": "scenarios/ArraysAndPointers.md"
+        }
+      ]
+    }
+	{
+      "title": "递归",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "递归",
+          "text": "scenarios/Recursion.md"
+        }
+      ]
+    }
+	{
+      "title": "链表",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "链表",
+          "text": "scenarios/LinkedLists.md"
+        }
+      ]
+    }
+	{
+      "title": "二叉树",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "二叉树",
+          "text": "scenarios/BinaryTrees.md"
+        }
+      ]
+    }
+	{
+      "title": "共同体",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "共同体",
+          "text": "scenarios/Unions.md"
+        }
+      ]
+    }
+	{
+      "title": "指针运算",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "指针运算",
+          "text": "scenarios/PointerArithmetics.md"
+        }
+      ]
+    }
+	{
+      "title": "函数指针",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:latest",
+      "steps": [
+        {
+          "title": "函数指针",
+          "text": "scenarios/FunctionPointers.md"
+        }
+      ]
+    }
   ]
 }
